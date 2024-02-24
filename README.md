@@ -26,6 +26,7 @@ image:
   tag: 10.3.1
   pullPolicy: IfNotPresent
 EOF
+]
 }
 ```
 
